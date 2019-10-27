@@ -1,0 +1,7 @@
+{
+    "name": "logical negation",
+    "examples": [
+        {"input": [0], "output": 1},
+        {"input": [1], "output": 0}
+    ]
+}

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06072dab-a603-4a83-81d7-474e3842bde2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18D5A60D-361A-4AFD-A431-F772FA87FCC3/71/6ffd196d/ExecutionTimer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A03F13DC-4D43-40F7-B8EA-E143055EEE72/31/caaf6436/EquivalencyValidator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A03F13DC-4D43-40F7-B8EA-E143055EEE72/11/2adf36b6/SelfReferencingCollectionAssertions`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18D5A60D-361A-4AFD-A431-F772FA87FCC3/1c/bd712047/TestInvoker`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A03F13DC-4D43-40F7-B8EA-E143055EEE72/c6/7f85c6d7/GenericEnumerableEquivalencyStep.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/Learning/WageLimitProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console.Tests/Learning/WageLimitProviderTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A03F13DC-4D43-40F7-B8EA-E143055EEE72/d0/a41c77a0/EnumerableEquivalencyStep.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console.Tests/IO/ResultDisplayerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/IO/ConsoleWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/IO/ResultDisplayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/Learning/LearningDispatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/081372C7-3509-4D45-BD06-A6A9BC610C6B/74/ca0596f0/EnumerableHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/Learning/WageFinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console.Tests/IO/LearningSetReaderTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/Models/WageSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/322BBBC6-5970-41B6-8D4D-2344FC876EBA/7a/a4b40a58/CallSiteVisitor`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/IO/DirectoryInfoWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/322BBBC6-5970-41B6-8D4D-2344FC876EBA/b4/77df7389/CallSiteRuntimeResolver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9A37B996-EC27-4959-B3E1-916E23124682/f0/4ca1fdd8/DataContractJsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/081372C7-3509-4D45-BD06-A6A9BC610C6B/6f/629590b7/LargeArrayBuilder`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/IO/FileWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/Models/Example.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A03F13DC-4D43-40F7-B8EA-E143055EEE72/77/6e41cd0d/AssertionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/Models/LearningSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kutokasta.Console/IO/LearningSetReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.nuget/packages/microsoft.net.test.sdk/16.2.0/build/netcoreapp1.0/Microsoft.NET.Test.Sdk.Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/36/825c5a4c/ExceptionAggregator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/97/f8644b31/String.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Kutokasta.Console/examples.json" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Klasa.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/bin/Debug/netcoreapp3.0/learning-set.json" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/LearningSetWriter.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Example.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/LearningSet.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/LearningSetReader.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/WageLimitProvider.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/WageSet.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/learning-set.json" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Neuron/WageSet.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/LearningSets/LearningSet.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Models/Example.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Models/LearningSet.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/IO/DirectoryInfoWrapper.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/IO/FileWrapper.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/IO/LearningSetReader.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/LearningSets/learning-set-and.json" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/LearningSets/learning-set-or.json" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/LearningSets/learning-set-not.json" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Learning/WageLimitProvider.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Learning/WageFinder.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console.Tests/WageLimitProviderTests.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/LearningSets/learning-set-nor.json" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/LearningSets/learning-set-nand.json" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console.Tests/IO/LearningSetReaderTests.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/IO/ResultDisplayer.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console.Tests/IO/ResultDisplayerTests.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/IO/ConsoleWrapper.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Learning/LearningDispatcher.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Program.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console/Models/WageSet.cs" />
+        <option value="$PROJECT_DIR$/Kutokasta.Console.Tests/Learning/WageLimitProviderTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S2ds6VltbqFXy5Fxp7Nyo0sf6i" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Kutokasta.Console/LearningSetReader.cs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Kutokasta.Console/bin/Debug/netcoreapp3.0/Kutokasta.Console.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kutokasta.Console/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Kutokasta.Console/Kutokasta.Console.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06072dab-a603-4a83-81d7-474e3842bde2" name="Default Changelist" comment="" />
+      <created>1570765829112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570765829112</updated>
+      <workItem from="1570765833924" duration="6000" />
+      <workItem from="1570767002408" duration="21000" />
+      <workItem from="1570772007789" duration="1140000" />
+      <workItem from="1570774055466" duration="979000" />
+      <workItem from="1570802518301" duration="5139000" />
+      <workItem from="1571244427251" duration="6046000" />
+      <workItem from="1571675866043" duration="628000" />
+      <workItem from="1571721088273" duration="3681000" />
+      <workItem from="1571767876702" duration="2945000" />
+      <workItem from="1571807254998" duration="1534000" />
+      <workItem from="1571849491136" duration="5663000" />
+      <workItem from="1571983138910" duration="1653000" />
+      <workItem from="1572014645206" duration="2535000" />
+      <workItem from="1572033701251" duration="2116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Kutokasta.Console.Tests/Learning/WageLimitProviderTests.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/Kutokasta.Console.Tests/Learning/WageLimitProviderTests.cs" initialLine="24">
+            <startOffsets>
+              <option value="645" />
+            </startOffsets>
+            <endOffsets>
+              <option value="694" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

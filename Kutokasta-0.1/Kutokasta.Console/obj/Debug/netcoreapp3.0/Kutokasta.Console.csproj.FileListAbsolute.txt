@@ -1,0 +1,17 @@
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\Kutokasta.Console.exe
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\Kutokasta.Console.deps.json
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\Kutokasta.Console.runtimeconfig.json
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\Kutokasta.Console.runtimeconfig.dev.json
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\Kutokasta.Console.dll
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\Kutokasta.Console.pdb
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\obj\Debug\netcoreapp3.0\Kutokasta.Console.csprojAssemblyReference.cache
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\obj\Debug\netcoreapp3.0\Kutokasta.Console.AssemblyInfoInputs.cache
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\obj\Debug\netcoreapp3.0\Kutokasta.Console.AssemblyInfo.cs
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\obj\Debug\netcoreapp3.0\Kutokasta.Console.dll
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\obj\Debug\netcoreapp3.0\Kutokasta.Console.pdb
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\obj\Debug\netcoreapp3.0\Kutokasta.Console.csproj.CopyComplete
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\LearningSets\learning-set-and.json
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\LearningSets\learning-set-not.json
+C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1\Kutokasta.Console\bin\Debug\netcoreapp3.0\LearningSets\learning-set-or.json

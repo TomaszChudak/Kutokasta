@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\BE2101\.nuget\packages\microsoft.net.test.sdk\16.2.0\build\netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\BE2101\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\BE2101\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\BE2101\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\BE2101\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\BE2101\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Kutokasta.-1345722298.00" t="ExcludeRecursive" />
+    <e p="C:\Users\BE2101\Desktop\TCH private stuff\_aiworkshop.pl\_kutokasta\Kutokasta-0.1" t="IncludeFlat">
+      <e p="Kutokasta.Console" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IO" t="Include">
+          <e p="ConsoleWrapper.cs" t="Include" />
+          <e p="DirectoryInfoWrapper.cs" t="Include" />
+          <e p="FileWrapper.cs" t="Include" />
+          <e p="LearningSetReader.cs" t="Include" />
+          <e p="ResultDisplayer.cs" t="Include" />
+        </e>
+        <e p="Kutokasta.Console.csproj" t="IncludeRecursive" />
+        <e p="Learning" t="Include">
+          <e p="LearningDispatcher.cs" t="Include" />
+          <e p="WageFinder.cs" t="Include" />
+          <e p="WageLimitProvider.cs" t="Include" />
+        </e>
+        <e p="LearningSets" t="Include">
+          <e p="learning-set-and.json" t="Include" />
+          <e p="learning-set-nand.json" t="Include" />
+          <e p="learning-set-nor.json" t="Include" />
+          <e p="learning-set-not.json" t="Include" />
+          <e p="learning-set-or.json" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Example.cs" t="Include" />
+          <e p="LearningSet.cs" t="Include" />
+          <e p="WageSet.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Kutokasta.Console.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Kutokasta.Console.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IO" t="Include">
+          <e p="LearningSetReaderTests.cs" t="Include" />
+          <e p="ResultDisplayerTests.cs" t="Include" />
+        </e>
+        <e p="Kutokasta.Console.Tests.csproj" t="IncludeRecursive" />
+        <e p="Learning" t="Include">
+          <e p="WageLimitProviderTests.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Kutokasta.Console.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Kutokasta.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
